@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-/*Site do */
+/*Site de curisodades de tecnologia*/
 
 body{
 background-color: white;
@@ -119,15 +119,6 @@ main p {
 
 /*A primeira versão*/
 
-main h2{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-
-    color: var(--cor4);
-    font-size: 1.3em;
-    font-weight: normal;
-    background-image: linear-gradient(to right, var(--cor1), transparent);
-    text-indent: 8px
-}
 
 main p{
     margin: 15px 0px;
@@ -138,7 +129,7 @@ main p{
 }
 /*Surge um novo mascote*/
 main h2 {
-    font-family: var(--fonte-android);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: var(--cor4);
     font-size: 1.3em;
     font-weight: normal;
